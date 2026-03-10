@@ -1,0 +1,5 @@
+Name: Irene | Account No: 101 | Principal: ₹10000 | Rate: 5% | Time: 10 years | Interest: ₹5000 | Total: ₹15000
+Name: Irene | Account No: 101 | Principal: ₹12000 | Rate: 3% | Time: 2 years | Interest: ₹720 | Total: ₹12720
+Name: Caryn | Account No: 102 | Principal: ₹5000 | Rate: 5% | Time: 2 years | Interest: ₹500 | Total: ₹5500
+Name: Olivia | Account No: 103 | Principal: ₹150000 | Rate: 6% | Time: 3 years | Interest: ₹27000 | Total: ₹177000
+Name: Charles | Account No: 104| Principal: ₹70000 | Rate: 10% | Time: 4 years | Interest: ₹28000 | Total: ₹98000
